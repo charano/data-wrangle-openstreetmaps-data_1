@@ -1,0 +1,12 @@
+http://stackoverflow.com/questions/8109122/how-to-sort-mongodb-with-pymongo
+http://stackoverflow.com/questions/7879600/using-anchors-in-python-regex-to-get-exact-match
+https://github.com/Yelp/yelp-api/blob/master/v2/python/sample.py
+http://stackoverflow.com/questions/12007726/how-to-query-for-distinct-results-in-mongodb-with-python
+http://stackoverflow.com/questions/23177439/python-checking-if-a-dictionary-is-empty-doesnt-seem-to-work
+http://stackoverflow.com/questions/961632/converting-integer-to-string-in-python
+http://stackoverflow.com/questions/12792998/elementtree-iterparse-strategy
+http://stackoverflow.com/questions/13710770/how-to-update-values-using-pymongo
+http://stackoverflow.com/questions/663171/is-there-a-way-to-substring-a-string-in-python
+http://stackoverflow.com/questions/15473772/how-to-convert-from-string-to-date-data-type
+http://stackoverflow.com/questions/15657501/how-to-aggregate-by-date-when-a-full-timestamp-is-given-in-aggregation-framework
+http://zaiste.net/2012/08/importing_json_into_mongodb/

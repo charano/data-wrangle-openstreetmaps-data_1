@@ -1,0 +1,6 @@
+OpenStreetMap link:  http://www.openstreetmap.org/relation/119557
+Actual download: https://s3.amazonaws.com/metro-extracts.mapzen.com/atlanta_georgia.osm.bz2
+
+The map is of the greater Atlanta metropolitan area.  I chose this area because I recently moved to Atlanta and wanted to see if I could learn more about my new home city!
+
+
